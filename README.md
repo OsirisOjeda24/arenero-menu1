@@ -2,4 +2,7 @@
 Mi primer repositorio (Prueba)
 
 **Nombre:** Osiris Ojeda Rodríguez.
-**Matrrícula:** 202245944
+**Matrícula:** 202245944.
+**Materia:** Desarrollo de Aplicaciones web.
+**Periodo:** Otoño 2025.
+
